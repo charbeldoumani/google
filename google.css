@@ -1,0 +1,55 @@
+*{
+    list-style: none;
+}
+
+img{
+    width: 20%;
+    text-align: center; 
+}
+
+#image_header{
+    text-align: center;
+}
+
+#search_theweb{
+    background-color: lightgray;
+    text-align: center;
+    padding-bottom: 5px;
+}
+
+#container{
+    text-align: center;
+    height: 100px;
+    display: flex;
+    width: 100%;   
+}
+
+.leftright_content{
+    width: 38%;
+    display: inline-block; 
+    flex: 1;
+    padding: 1px;
+}
+
+.spacing{
+    line-height: 27px;
+}
+
+.center_content{
+    width: 20%;
+    display: inline-block;
+    flex: 1;
+    padding: 1px;
+    line-height: 20px;
+}
+
+p{
+    text-align: center;
+}
+
+.image_footer{
+    width: 40%;
+    text-align: left;
+    margin-top: 5%;
+}
+
